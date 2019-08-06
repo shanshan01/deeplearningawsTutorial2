@@ -1,3 +1,15 @@
 [submodule "kdd20192"]
 	path = kdd20192
 	url = https://github.com/awshlabs/kdd2019.git
+[submodule "AWS_P3_Workshop"]
+	path = AWS_P3_Workshop
+	url = https://github.com/dping1/AWS_P3_Workshop.git
+[submodule "object_detection"]
+	path = object_detection
+	url = https://github.com/dping1/AWS_P3_Workshop.git
+[submodule "BERT"]
+	path = BERT
+	url = https://github.com/astonzhang/KDD19-tutorial
+[submodule "BERT2"]
+	path = BERT2
+	url = https://github.com/astonzhang/KDD19-tutorial.git
