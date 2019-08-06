@@ -1,0 +1,3 @@
+[submodule "kdd20192"]
+	path = kdd20192
+	url = https://github.com/awshlabs/kdd2019.git
